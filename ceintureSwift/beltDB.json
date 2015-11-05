@@ -1,0 +1,435 @@
+
+  {
+  "feed":{
+  "entry":[
+           {
+           "id":1,
+           "name":"Barette jaune",
+           "image":"baretteYellowBelt",
+           "techniques":[
+                         {
+                         "name":"Salut",
+                         "category":null,
+                         "max":2
+                         },
+                         {
+                         "name":"Chutte arrière",
+                         "category":"Ukemis",
+                         "max":2
+                         },
+                         {
+                         "name":"Chutte avant",
+                         "category":"Ukemis",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de morote avec barrage",
+                         "category":"Nage waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de kubi nage",
+                         "category":"Nage waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de o ou ko soto gari",
+                         "category":"Nage waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de o ou ko uchi gari",
+                         "category":"Nage waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Retournement de Uke en  position quadrupédique",
+                         "category":"Ne waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de yoko shiho gatame",
+                         "category":"Ne waza",
+                         "max":2
+                         },
+                         {
+                         "name":"de tate shiho gatame",
+                         "category":"Ne waza",
+                         "max":2
+                         },
+                         {
+                         "name":"de kami shiho gatame",
+                         "category":"Ne waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de kuzure gesa gatame",
+                         "category":"Ne waza",
+                         "max":2
+                         }
+                         ]
+           },
+           {
+           "id":2,
+           "name":"Blanche jaune",
+           "image":"yellowWhiteBelt",
+           "techniques":[
+                         {
+                         "name":"Salut",
+                         "category":null,
+                         "max":1
+                         },
+                         {
+                         "name":"Chutte arrière",
+                         "category":"Ukemis",
+                         "max":2
+                         },
+                         {
+                         "name":"Chutte avant",
+                         "category":"Ukemis",
+                         "max":2
+                         },
+                         {
+                         "name":"Forme de hiza guruma ou sasae tsuri komi ash",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de taï otoshi ou morote avec barrage",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de kubi nage",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de o soto gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de ko soto gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de o uchi gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de ko uchi gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Esquive",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Retournement de Uke en  position quadrupédique",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de yoko shiho gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de tate shiho gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de kami shiho gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de kuzure gesa gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Dégagement d'immobilisation",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Reprise entre les jambes",
+                         "category":"Ne waza",
+                         "max":1
+                         }
+                         ]
+           },
+           {
+           "id":3,
+           "name":"Jaune",
+           "image":"yellowBelt",
+           "techniques":[
+                         {
+                         "name":"Chutte arrière",
+                         "category":"Ukemis",
+                         "max":1
+                         },
+                         {
+                         "name":"Chutte avant",
+                         "category":"Ukemis",
+                         "max":1
+                         },
+                         {
+                         "name":"hiza guruma",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"sasae tsuri komi ashi",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"taï otoshi",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"morote avec barrage",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"kubi nage",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"o soto gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"ko soto gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"o uchi gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"ko uchi gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Forme de uki goshi",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Redoublement d'attaque",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Esquive",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"2 retournement de Uke en position quadrupédique",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"yoko shiho gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"tate shiho gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"kami shiho gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"kuzure gesa gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Tori sur le dos Uke entre les jambes",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Dégagement d'immobilisation",
+                         "category":"Ne waza",
+                         "max":1
+                         }
+                         ]
+           },
+           {
+           "id":4,
+           "name":"Jaune orange",
+           "image":"orangeYellowBelt",
+           "techniques":[
+                         {
+                         "name":"Ippon seoi nage",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"O goshi",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Ashi guruma",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Okuri ashi baraï",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"O soto gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Ko soto gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"O uchi gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"ko uchi gari",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Contre attaque",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Redoublement d'attaque",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Liaison debout/sol",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Esquive",
+                         "category":"Nage waza",
+                         "max":1
+                         },
+                         {
+                         "name":"3 retournement de Uke en position quadrupédique",
+                         "category":"Ne waza",
+                         "max":3
+                         },
+                         {
+                         "name":"Yoko shiho gatame",
+                         "category":"Ne waza",
+                         "max":0.5
+                         },
+                         {
+                         "name":"Tate shiho gatame",
+                         "category":"Ne waza",
+                         "max":0.5
+                         },
+                         {
+                         "name":"Kami shiho gatame",
+                         "category":"Ne waza",
+                         "max":0.5
+                         },
+                         {
+                         "name":"Kuzure gesa gatame",
+                         "category":"Ne waza",
+                         "max":0.5
+                         },
+                         {
+                         "name":"Ushiro gesa gatame",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Uke sur le dos Tori entre les jambes",
+                         "category":"Ne waza",
+                         "max":1
+                         },
+                         {
+                         "name":"Tori sur le dos Uke entre les jambes",
+                         "category":"Ne waza",
+                         "max":2
+                         },
+                         {
+                         "name":"Riposte à 4 pattes",
+                         "category":"Ne waza",
+                         "max":1
+                         }
+                         ]
+           },
+           {
+           "id":5,
+           "name":"Orange",
+           "image":"orangeBelt",
+           "techniques":[
+                         {
+                         "name":"Ippon seoi nage",
+                         "category":"Nage waza",
+                         "max":1
+                         }
+           },
+           {
+           "id":6,
+           "name":"Orange verte",
+           "image":"greenOrangeBelt"
+           }
+           ,
+           {
+           "id":7,
+           "name":"Verte",
+           "image":"greenBelt"
+           }
+           ,
+           {
+           "id":8,
+           "name":"Bleue verte",
+           "image":"blueGreenBelt"
+           }
+           ,
+           {
+           "id":9,
+           "name":"Bleue",
+           "image":"blueBelt"
+           }
+           ,
+           {
+           "id":10,
+           "name":"Brown",
+           "image":"brownBelt"
+           }
+           ]
+  }
+  }

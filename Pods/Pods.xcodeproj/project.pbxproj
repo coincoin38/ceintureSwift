@@ -1,0 +1,504 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		096E3C9B95E2C3FBA7A43873 /* Pods-ceintureSwift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A9F090C32B3D88F69F015197 /* Pods-ceintureSwift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0B08F7989CE0088247A4ECE7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31FCB1E77331DBC0E08D50 /* Foundation.framework */; };
+		3B9064C5FCC101EC574E185A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31FCB1E77331DBC0E08D50 /* Foundation.framework */; };
+		A15D01370A6E4D3BD512E1E5 /* Pods-ceintureSwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 72A758B95E2217E8CF37F049 /* Pods-ceintureSwift-dummy.m */; };
+		B2EF3A7469D54BDCBBE45C56 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AF773BB199F7B0F22B3D6D /* SwiftyJSON.swift */; };
+		B904316A79257B7D0B2B920A /* Pods-ceintureSwift-SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 54976BF6D3943A97262BC88A /* Pods-ceintureSwift-SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DAC4D37A657E383BB14FA7F4 /* Pods-ceintureSwift-SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 81AED3DB079D9E35CA2BBA5E /* Pods-ceintureSwift-SwiftyJSON-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		475400043C1431F7AB268951 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DABEA4089921E1BB4B888101 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 27200E5978EEAD3DE252F3A1;
+			remoteInfo = "Pods-ceintureSwift-SwiftyJSON";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		08A2202B2DAB61612C2368C2 /* Pods_ceintureSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ceintureSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		091C10BE50092A6C72BBB2A1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B2B5E31B5C23468B621B31A /* Pods-ceintureSwift-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ceintureSwift-frameworks.sh"; sourceTree = "<group>"; };
+		228BFD887642816C9E01AA76 /* Pods-ceintureSwift-SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ceintureSwift-SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		2AC4779FE0AF26561099DDB1 /* Pods-ceintureSwift-SwiftyJSON-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceintureSwift-SwiftyJSON-Private.xcconfig"; sourceTree = "<group>"; };
+		2B163013FA54C5585FC934AD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38D451D29DFF0F6B62A42A07 /* Pods-ceintureSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceintureSwift.release.xcconfig"; sourceTree = "<group>"; };
+		484B02769525DABB8DE12F04 /* Pods-ceintureSwift-SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ceintureSwift-SwiftyJSON.modulemap"; sourceTree = "<group>"; };
+		54976BF6D3943A97262BC88A /* Pods-ceintureSwift-SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ceintureSwift-SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		72A758B95E2217E8CF37F049 /* Pods-ceintureSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ceintureSwift-dummy.m"; sourceTree = "<group>"; };
+		7C75E80B8C156B96DE1C2A3D /* Pods-ceintureSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ceintureSwift.modulemap"; sourceTree = "<group>"; };
+		81AED3DB079D9E35CA2BBA5E /* Pods-ceintureSwift-SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ceintureSwift-SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		9A9C50DAC198731560E2DAD8 /* Pods-ceintureSwift-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ceintureSwift-resources.sh"; sourceTree = "<group>"; };
+		9FF406A99DF8DDF979543974 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9F090C32B3D88F69F015197 /* Pods-ceintureSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ceintureSwift-umbrella.h"; sourceTree = "<group>"; };
+		AD31FCB1E77331DBC0E08D50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		AEC7752AA086BE1057762067 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C1AD19834DFEBD4F4127938E /* Pods-ceintureSwift-SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceintureSwift-SwiftyJSON.xcconfig"; sourceTree = "<group>"; };
+		C55D84FF208238325F60FEEB /* Pods-ceintureSwift-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ceintureSwift-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DFA9BD16F638DF0A139C808A /* Pods-ceintureSwift-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ceintureSwift-acknowledgements.plist"; sourceTree = "<group>"; };
+		E0AF773BB199F7B0F22B3D6D /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
+		E1668AA444F4E6D07B6A1613 /* Pods-ceintureSwift-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ceintureSwift-environment.h"; sourceTree = "<group>"; };
+		F4B9218035D6B01C388E5CB9 /* Pods-ceintureSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ceintureSwift.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0E4B0D1EBF8AB70B36CEBA1B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B9064C5FCC101EC574E185A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		58E545C5BA2D780F83B356DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B08F7989CE0088247A4ECE7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0889C3D1F3E1175A44BE10A0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BD0E7BCFD4E5F15F7364D128 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		15680383F0C92789C39E1A3A /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				FC2E1A4AD0D26281F823E16D /* Pods-ceintureSwift */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		174AE8B5AC94896AD5DBC18A = {
+			isa = PBXGroup;
+			children = (
+				AEC7752AA086BE1057762067 /* Podfile */,
+				0889C3D1F3E1175A44BE10A0 /* Frameworks */,
+				82E19E21CB3B5D36924C3BB9 /* Pods */,
+				2278C5218F9FCC5C20DA1B33 /* Products */,
+				15680383F0C92789C39E1A3A /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		2278C5218F9FCC5C20DA1B33 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				08A2202B2DAB61612C2368C2 /* Pods_ceintureSwift.framework */,
+				9FF406A99DF8DDF979543974 /* SwiftyJSON.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		652517EF5FC027C880C72BA7 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				2B163013FA54C5585FC934AD /* Info.plist */,
+				484B02769525DABB8DE12F04 /* Pods-ceintureSwift-SwiftyJSON.modulemap */,
+				C1AD19834DFEBD4F4127938E /* Pods-ceintureSwift-SwiftyJSON.xcconfig */,
+				2AC4779FE0AF26561099DDB1 /* Pods-ceintureSwift-SwiftyJSON-Private.xcconfig */,
+				81AED3DB079D9E35CA2BBA5E /* Pods-ceintureSwift-SwiftyJSON-dummy.m */,
+				228BFD887642816C9E01AA76 /* Pods-ceintureSwift-SwiftyJSON-prefix.pch */,
+				54976BF6D3943A97262BC88A /* Pods-ceintureSwift-SwiftyJSON-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Pods-ceintureSwift-SwiftyJSON";
+			sourceTree = "<group>";
+		};
+		82E19E21CB3B5D36924C3BB9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E38D3194C886AB3A007DED56 /* SwiftyJSON */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		BD0E7BCFD4E5F15F7364D128 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				AD31FCB1E77331DBC0E08D50 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		E38D3194C886AB3A007DED56 /* SwiftyJSON */ = {
+			isa = PBXGroup;
+			children = (
+				E0AF773BB199F7B0F22B3D6D /* SwiftyJSON.swift */,
+				652517EF5FC027C880C72BA7 /* Support Files */,
+			);
+			path = SwiftyJSON;
+			sourceTree = "<group>";
+		};
+		FC2E1A4AD0D26281F823E16D /* Pods-ceintureSwift */ = {
+			isa = PBXGroup;
+			children = (
+				091C10BE50092A6C72BBB2A1 /* Info.plist */,
+				7C75E80B8C156B96DE1C2A3D /* Pods-ceintureSwift.modulemap */,
+				C55D84FF208238325F60FEEB /* Pods-ceintureSwift-acknowledgements.markdown */,
+				DFA9BD16F638DF0A139C808A /* Pods-ceintureSwift-acknowledgements.plist */,
+				72A758B95E2217E8CF37F049 /* Pods-ceintureSwift-dummy.m */,
+				E1668AA444F4E6D07B6A1613 /* Pods-ceintureSwift-environment.h */,
+				1B2B5E31B5C23468B621B31A /* Pods-ceintureSwift-frameworks.sh */,
+				9A9C50DAC198731560E2DAD8 /* Pods-ceintureSwift-resources.sh */,
+				A9F090C32B3D88F69F015197 /* Pods-ceintureSwift-umbrella.h */,
+				F4B9218035D6B01C388E5CB9 /* Pods-ceintureSwift.debug.xcconfig */,
+				38D451D29DFF0F6B62A42A07 /* Pods-ceintureSwift.release.xcconfig */,
+			);
+			name = "Pods-ceintureSwift";
+			path = "Target Support Files/Pods-ceintureSwift";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		DE420826ED2FCC65EC9B7E20 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B904316A79257B7D0B2B920A /* Pods-ceintureSwift-SwiftyJSON-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD632BA4B9943264BAD12875 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				096E3C9B95E2C3FBA7A43873 /* Pods-ceintureSwift-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		27200E5978EEAD3DE252F3A1 /* Pods-ceintureSwift-SwiftyJSON */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8880F62E469D32B208FFBE82 /* Build configuration list for PBXNativeTarget "Pods-ceintureSwift-SwiftyJSON" */;
+			buildPhases = (
+				4E8E45D7C40554649FB29DB6 /* Sources */,
+				58E545C5BA2D780F83B356DC /* Frameworks */,
+				DE420826ED2FCC65EC9B7E20 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-ceintureSwift-SwiftyJSON";
+			productName = "Pods-ceintureSwift-SwiftyJSON";
+			productReference = 9FF406A99DF8DDF979543974 /* SwiftyJSON.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		3B263DEB15B6145BFD3E3859 /* Pods-ceintureSwift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A7A15C8C54185DBC0CB48C61 /* Build configuration list for PBXNativeTarget "Pods-ceintureSwift" */;
+			buildPhases = (
+				6ACD1FB018F573A086434104 /* Sources */,
+				0E4B0D1EBF8AB70B36CEBA1B /* Frameworks */,
+				FD632BA4B9943264BAD12875 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7E468E606F5B4EEFFEAA3D86 /* PBXTargetDependency */,
+			);
+			name = "Pods-ceintureSwift";
+			productName = "Pods-ceintureSwift";
+			productReference = 08A2202B2DAB61612C2368C2 /* Pods_ceintureSwift.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DABEA4089921E1BB4B888101 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0640;
+			};
+			buildConfigurationList = FF49FF4FC5959FD15BF33804 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 174AE8B5AC94896AD5DBC18A;
+			productRefGroup = 2278C5218F9FCC5C20DA1B33 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B263DEB15B6145BFD3E3859 /* Pods-ceintureSwift */,
+				27200E5978EEAD3DE252F3A1 /* Pods-ceintureSwift-SwiftyJSON */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4E8E45D7C40554649FB29DB6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAC4D37A657E383BB14FA7F4 /* Pods-ceintureSwift-SwiftyJSON-dummy.m in Sources */,
+				B2EF3A7469D54BDCBBE45C56 /* SwiftyJSON.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6ACD1FB018F573A086434104 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A15D01370A6E4D3BD512E1E5 /* Pods-ceintureSwift-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7E468E606F5B4EEFFEAA3D86 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-ceintureSwift-SwiftyJSON";
+			target = 27200E5978EEAD3DE252F3A1 /* Pods-ceintureSwift-SwiftyJSON */;
+			targetProxy = 475400043C1431F7AB268951 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		16115C1EA9E2E492EA9D9509 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		6EFFAF5829430BBB3E72EC6F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 38D451D29DFF0F6B62A42A07 /* Pods-ceintureSwift.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ceintureSwift/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-ceintureSwift/Pods-ceintureSwift.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_ceintureSwift;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		79E3EF33FB2D8AB5B562CC6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F4B9218035D6B01C388E5CB9 /* Pods-ceintureSwift.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ceintureSwift/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-ceintureSwift/Pods-ceintureSwift.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_ceintureSwift;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		939BC9FF3BD255F97B185C06 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2AC4779FE0AF26561099DDB1 /* Pods-ceintureSwift-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-ceintureSwift-SwiftyJSON/Pods-ceintureSwift-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-ceintureSwift-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-ceintureSwift-SwiftyJSON/Pods-ceintureSwift-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		99CEFCB611CCF11C11CCCA71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2AC4779FE0AF26561099DDB1 /* Pods-ceintureSwift-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-ceintureSwift-SwiftyJSON/Pods-ceintureSwift-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-ceintureSwift-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-ceintureSwift-SwiftyJSON/Pods-ceintureSwift-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B0FE0D5CEA092EA3B48A3885 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8880F62E469D32B208FFBE82 /* Build configuration list for PBXNativeTarget "Pods-ceintureSwift-SwiftyJSON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				99CEFCB611CCF11C11CCCA71 /* Debug */,
+				939BC9FF3BD255F97B185C06 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A7A15C8C54185DBC0CB48C61 /* Build configuration list for PBXNativeTarget "Pods-ceintureSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79E3EF33FB2D8AB5B562CC6D /* Debug */,
+				6EFFAF5829430BBB3E72EC6F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF49FF4FC5959FD15BF33804 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16115C1EA9E2E492EA9D9509 /* Debug */,
+				B0FE0D5CEA092EA3B48A3885 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DABEA4089921E1BB4B888101 /* Project object */;
+}
